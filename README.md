@@ -1,3 +1,3 @@
-# vpr-js-sdk
+# js-sdk
 
-声纹引擎JS-SDK
+JS-SDK
